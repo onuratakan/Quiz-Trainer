@@ -51,6 +51,7 @@ The application interface is straightforward:
 ## Current Exams Available 📋
 
 - AWS Certified DevOps Engineer - Professional
+- AWS Certified Solutions Architect - Professional
 
 Stay tuned as we continue to add more exams to our collection!
 
