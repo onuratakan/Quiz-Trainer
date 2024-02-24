@@ -52,6 +52,7 @@ The application interface is straightforward:
 
 - AWS Certified DevOps Engineer - Professional
 - AWS Certified Solutions Architect - Professional
+- AWS Certified Machine Learning - Specialty
 
 Stay tuned as we continue to add more exams to our collection!
 
